@@ -4,6 +4,6 @@ const share = document.querySelector(".share-icon");
 
 popupBtn.onclick = () => {
     popup.classList.toggle("show");
-    popupBtn.classList.toggle("change");
-    share.classList.toggle("change");
+    popupBtn.classList.toggle("show");
+    share.classList.toggle("show");
 }
