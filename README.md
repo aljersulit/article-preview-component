@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aldrin Sulit](https://www.your-site.com)
+- Website - [Aldrin Sulit](https://github.com/aljersulit)
 - Frontend Mentor - [@AljerEfficient12](https://www.frontendmentor.io/profile/AljerEfficient12)
