@@ -80,7 +80,7 @@ body {
   transform: translateY(-50%);
 }
 
-.profile-details h3 {
+.profile-details h2 {
   font-size: 1rem;
   font-weight: 700;
 }
